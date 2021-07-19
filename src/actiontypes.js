@@ -1,0 +1,11 @@
+export  const  SIGN_IN = 'SIGN_IN';
+export  const SIGN_UP = 'SIGN_UP';
+export  const USER_LOGIN_SUCCESS ='USER_LOGIN_SUCCESS';
+export  const    USER_LOGIN_FAILURE= 'USER_LOGIN_FAILURE';
+export  const   USER_REGISTER_SUCCESS= 'USER_REGISTER_SUCCESS';
+export  const   USER_REGISTER_FAILURE='LOG_ERROR_FAILURE';
+export  const    POST_FORM_SUCCESS=' POST_FORM_SUCCESS';
+export  const    POST_FORM_FAILURE= ' POST_FORM_FAILURE';
+export const POST ='POST';  
+export const TABLE='TABLE';
+export const TABLE_SUCCESS='TABLE_SUCCESS';

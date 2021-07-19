@@ -1,0 +1,31 @@
+body{
+    width: 100% ;
+    height: 100% ;
+    
+}
+
+.ant-layout-header{
+     /* margin-left: -50px; */
+     background-color: #007bec; 
+     width: 100% !important;
+}
+.ant-layout-menu-item-group {
+    margin-left: -25px; 
+}
+
+.menu{
+    /* margin-top: -17px; */
+    background-color: #007bec;
+    text-align: center;
+    color: #ffffff;
+
+}
+.e{
+   float: right;
+}
+.site-layout-content {
+    
+    margin: 31px 150px 0;
+    background: #fff;
+   
+  }
